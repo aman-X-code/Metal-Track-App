@@ -74,8 +74,8 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/aman-X-code/precious-metals-tracker.git
-   cd precious-metals-tracker
+   git clone https://github.com/aman-X-code/Metal-Track-App.git
+   cd Metal-Track-App
    ```
 
 2. **Install dependencies**
@@ -354,8 +354,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aman Khanna**
 
-- GitHub: [@yourusername](https://github.com/aman-X-code)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aman-khanna-82715b200/)
+- GitHub: [@aman-X-code](https://github.com/aman-X-code)
+- LinkedIn: [Aman-khanna](https://www.linkedin.com/in/aman-khanna-82715b200/)
 
 ---
 
