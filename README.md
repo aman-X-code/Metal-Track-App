@@ -363,4 +363,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Home Screen                   | Details Screen                      | Price Charts                      |
 | ----------------------------- | ----------------------------------- | --------------------------------- |
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Charts](screenshots/charts.png) |
+| ![Home](screenshots/home.jpg) | ![Details](screenshots/details.jpg) | ![Charts](screenshots/charts.jpg) |
