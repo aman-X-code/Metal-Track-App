@@ -2,6 +2,8 @@
 
 > A modern React Native application for tracking real-time precious metals prices with smooth animations and clean user interface.
 
+## APK - added in releases
+
 ## 📱 **App Overview**
 
 The **Precious Metals Tracker** provides real-time price tracking for Gold (XAU), Silver (XAG), Platinum (XPT), and Palladium (XPD) with a focus on performance and user experience.
