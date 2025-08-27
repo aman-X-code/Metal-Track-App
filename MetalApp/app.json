@@ -1,0 +1,37 @@
+{
+  "name": "MetalApp",
+  "displayName": "Precious Metals Tracker",
+  "description": "Real-time precious metals price tracking with modern UI",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "icon": "./assets/icon.png",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#0B0E1A"
+  },
+  "android": {
+    "package": "com.metalapp.preciousmetals",
+    "versionCode": 1,
+    "icon": "./assets/android-icon.png",
+    "splash": {
+      "image": "./assets/android-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0E1A"
+    },
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#0B0E1A"
+    }
+  },
+  "ios": {
+    "bundleIdentifier": "com.metalapp.preciousmetals",
+    "buildNumber": "1",
+    "icon": "./assets/ios-icon.png",
+    "splash": {
+      "image": "./assets/ios-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0E1A"
+    }
+  }
+}
